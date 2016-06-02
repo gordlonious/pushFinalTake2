@@ -6,7 +6,7 @@ public:
   char_Symbol_Base();
   char_Symbol_Base(char c);
 
-  void*** getChar(); // you
+  //void*** getChar(); // you
   char getMe();
 private:
   char privChar;
